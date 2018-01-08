@@ -47,14 +47,14 @@ class NavigationBar extends Component {
 
                     <RaisedButton href="https://github.com/callemall/material-ui"
                                   secondary={true}
-                                  label="Resume"
+                                  label="Stocks"
                                   style={styles.button}
                                   icon={<FontIcon className="muidocs-icon-custom-github" />}
                     />
 
                     <RaisedButton href="https://github.com/callemall/material-ui"
                                   secondary={true}
-                                  label="Resume"
+                                  label="Contact Me"
                                   style={styles.button}
                                   icon={<FontIcon className="muidocs-icon-custom-github" />}
                     />

@@ -2,16 +2,17 @@ import React, { Component } from 'react';
 import Avatar from 'material-ui/Avatar';
 
 
-const style = {margin: 2};
+const style = {margin: -10};
 
 class ImageAvator extends Component {
     render() {
         return (
                 <Avatar
-                    src="./img/imran.jpg"
-                    size={25}
+                    backgroundColor={'#ff4081'}
                     style={style}
-                />
+                >
+                    IY
+                </Avatar>
         );
     }
 }
